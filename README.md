@@ -4,4 +4,4 @@ A networks based approach to analyzing computer science as a field using Wikiped
 
 This picture is generated from running modularity analysis for group discrimination on the "Computer Science" wikipedia page for 2 layers of connected links.
 
-To see a high definition version open the CompSci_Wiki_Stratified.svg file in Chrome, IE, or any other suitable browser.
+To see a high definition version open the [CompSci_Wiki_Stratified.svg](https://github.com/ChristianAnyanwu/Wiki_Comp_Sci_Analysis/blob/master/CompSci_Wiki_Stratified.svg "CompSci_Wiki_Stratified.svg")  file in Chrome, IE, or any other suitable browser.
